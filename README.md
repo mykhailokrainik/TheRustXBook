@@ -1,7 +1,7 @@
 # The Rust X Book
 #### The Rust X Book
 
-#### Where X = WebAssembly | Asynchronous | Linear Algebra | Macros | etc.
+#### Where X = WebAssembly | Asynchronous | Linear Algebra | ML | Macros | etc.
 
 [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 
