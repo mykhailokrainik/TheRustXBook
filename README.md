@@ -7,6 +7,8 @@
 
 [The Rust Unstable Book](https://doc.rust-lang.org/nightly/unstable-book/index.html)
 
+[Rust Machine Learning Book](https://rust-ml.github.io/book/)
+
 [The Rust Reference](https://doc.rust-lang.org/reference/index.html)
 
 [The Rust Rand Book](https://rust-random.github.io/book/guide-start.html)
