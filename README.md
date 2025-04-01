@@ -1,7 +1,7 @@
 # The Rust X Book
 #### The Rust X Book
 
-#### Where X = Ring | Asynchronous | Performance | etc.
+#### Where X = WebAssembly | Asynchronous | Linear Algebra | Macros | etc.
 
 [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 
@@ -38,3 +38,9 @@
 [Rust Design Patterns](https://rust-unofficial.github.io/patterns/intro.html)
 
 [Linear Algebra](https://rust-lang-nursery.github.io/rust-cookbook/science/mathematics/linear_algebra.html)
+
+[The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
+
+[Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+
+
