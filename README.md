@@ -45,4 +45,8 @@
 
 [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
+# Classes
+
+[Rust classes](https://rust-classes.com/)
+
 
