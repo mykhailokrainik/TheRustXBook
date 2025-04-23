@@ -45,6 +45,8 @@
 
 [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
+[Error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
+
 # Classes
 
 [Rust classes](https://rust-classes.com/)
