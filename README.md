@@ -51,4 +51,6 @@
 
 [Rust classes](https://rust-classes.com/)
 
+[Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html)
+
 
