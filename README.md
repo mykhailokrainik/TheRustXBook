@@ -53,4 +53,5 @@
 
 [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html)
 
+[Rust book + Quiz](https://rust-book.cs.brown.edu/title-page.html)
 
